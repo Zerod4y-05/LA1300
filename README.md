@@ -41,8 +41,7 @@ while (true)
 
             }
 ```
-Hier sieht man eine WHile Schleife mit dem einfachsten Boolean "True", dies bedeutet das es immer wahr ist und diese Schleife sollte ununterbrochen weiterlaufen.
-Doch diese Schleife läuft nicht ununterbrochen weiter, wieso nicht? Die Antwort liegt bei dem Break. Das Break verursacht folgendes: Falls die Zeile mit dem Break erreicht und ausgeführt wird, wird die While-schleife beendet und der Code ausserhalb der While-Schleife wird ausgeführt. Diese Methode zu verwenden ist effektiv falls man keinen Bool verwenden kann um die While-schleife aufzulösen. Doch bevor das Break erreicht werden kann muss es Hindernisse geben welche zuerst erfüllt/nicht erfüllt werden müssen. In diesem Beispiel wäre das, das Try-catch, die For-schleife, und das If statement. So kann alles gründlich ausgeführt werden ohne das man die While-schleife vorzeitig beendet.
+Hier sieht man eine While Schleife mit dem einfachsten Boolean "True", dies bedeutet, dass es immer wahr ist und diese Schleife sollte ununterbrochen weiterlaufen. Doch diese Schleife läuft nicht ununterbrochen weiter, wieso nicht? Die Antwort liegt bei dem Break. Das Break verursacht folgendes: Falls die Zeile mit dem Break erreicht und ausgeführt wird, wird die While-schleife beendet und der Code ausserhalb der While-Schleife wird ausgeführt. Diese Methode zu verwenden ist effektiv, falls man keinen Bool verwenden kann, um die While-schleife aufzulösen. Doch bevor das Break erreicht werden kann, muss es Hindernisse geben, welche zuerst erfüllt/nicht erfüllt werden müssen. In diesem Beispiel wäre das, das Try-catch, die For-schleife, und das If Statement. So kann alles gründlich ausgeführt werden ohne dass man die While-schleife vorzeitig beendet.
 
 ## Screenshot
 ![grafik](https://user-images.githubusercontent.com/89130485/142179644-1a0593ac-5f6d-4b20-9ed8-05366dca2577.png)
