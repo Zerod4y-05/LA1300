@@ -6,7 +6,7 @@ Das Programm soll Personen auf Kurse einteillen, und die 1., 2. und 3. wahl beac
 
 1. Der Leser soll nach dem Eintrag verstehen wie While-schleifen ohne einen Bool beendet werden kann.
 
-# Text + Code Zeile]
+## Text + Code Zeile
 While-schleifen haben ein relativ einfaches Prinzip, doch auch mit den einfachsten Mitteln hat man viele verschiedene anwendungsmöglichkeiten.
 ```csharp
 while (true)
